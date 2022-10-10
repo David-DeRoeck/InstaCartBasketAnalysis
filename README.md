@@ -5,4 +5,5 @@ Our task was to perform an initial data and exploratory analysis of some of Inst
 
 ## Data
 Open source data from Instacart and a customer data set created for the purpose of this project.
+
 <a href='https://www.instacart.com/datasets/grocery-shopping-2017'>Data Source</a>
